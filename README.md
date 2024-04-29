@@ -9,7 +9,7 @@ _6 step data analysis process_
 
 **[ASK](https://github.com/Juwan23D/Youtube-Optimization-Analysis?tab=readme-ov-file#ask)**
 
-**[Prepare](https://github.com/Juwan23D/Youtube-Optimization-Analysis/edit/main/README.md#prepare)**
+**[Prepare](https://github.com/Juwan23D/Youtube-Optimization-Analysis?tab=readme-ov-file#prepare)**
 
 # ASK
 * What are the most commented-upon videos? Or the most liked?
