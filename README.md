@@ -4,3 +4,14 @@ Everyone uses YouTube across all ages. From kids looking up paw patrol, women se
 **[Youtube Dasboard](https://public.tableau.com/views/YoutubeDashboard_16856611459230/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)**
 
 **[Youtube Presentation](https://docs.google.com/presentation/d/1r-9OqrqN_GgzQsvdn8VQfZ5q5uGI5ouv6rjBMO18GHQ/present?slide=id.p1)**
+
+ASK
+What are the most commented-upon videos? Or the most liked?
+How many total views does each category have? How many likes?
+What are the most-liked comments?
+Measurable questions can help us gain a numeric answer, and help establish the popularity of different ideas.
+
+What is the average sentiment score in each keyword category?
+How many times do company names (i.e., Apple or Samsung) appear in each keyword category?
+Gaining insight to a customer's mindset can explain their interests and give them useful recommendations. 
+
