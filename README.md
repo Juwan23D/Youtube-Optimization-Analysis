@@ -96,7 +96,28 @@ FROM `stoked-grin-387603.youtube.stats`
 GROUP BY Keyword
 Order BY View_num DESC;
 ```
+**Most liked Keyword**
 
+The most liked keywords was a collection of the likes spread across different videos that included certain keywords. Such as the mr.beast being involved in multiple videos and those videos he was involved in generated over 1 billion likes.
+```
+--Keyword likes
+SELECT Keyword, SUM(Likes) as like_num
+FROM `stoked-grin-387603.youtube.stats`
+GROUP BY Keyword
+Order BY like_num DESC;
+```
+
+**Top liked Comments**
+
+The most commented keywords was a collection of comments spread across different videos that included keywords. This also had mr.beast as the main traffick generator taking 8/10 of the top liked comments.
+
+```
+--Most liked comments 
+SELECT Distinct title, keyword, comment, Likes_1
+FROM `stoked-grin-387603.youtube.joined table`
+Order BY Likes_1 DESC
+LIMIT 10
+```
 
 
     
