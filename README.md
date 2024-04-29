@@ -9,13 +9,20 @@ Everyone uses YouTube across all ages. From kids looking up paw patrol, women se
 * What are the most commented-upon videos? Or the most liked?
 * How many total views does each category have? How many likes?
 * What are the most-liked comments?
-* Measurable questions can help us gain a numeric answer, and help establish the popularity of different ideas.
+
+   _Measurable questions can help us gain a numeric answer, and help establish the popularity of different ideas_
 
 * What is the average sentiment score in each keyword category?
 * How many times do company names (i.e., Apple or Samsung) appear in each keyword category?
-* Gaining insight to a customer's mindset can explain their interests and give them useful recommendations. 
+
+  _Gaining insight to a customer's mindset can explain their interests and give them useful recommendations_ 
 
 # Prepare
-We will be using a youtube dataset that is available to the public with a no copyright license (CC0 1.0 universal public domain). It spans over 2 data tables one detailing data on the comments and the other consisting of stats. Some of the metrics are likes, views, comments, and keyword categories. Exploring this information can help in collecting data to support the direction a company wants to go whether it be in marketing, business, or anyone wanting to see the public's view.
+
+Source: [Youtube Dataset](https://www.kaggle.com/datasets/advaypatil/youtube-statistics)
+
+We will be using a youtube dataset that is available to the public with a no copyright license [(CC0 1.0 universal public domain)](https://creativecommons.org/publicdomain/zero/1.0/). 
+
+It spans over 2 data tables one detailing data on the comments and the other consisting of stats. Some of the metrics are likes, views, comments, and keyword categories. Exploring this information can help in collecting data to support the direction a company wants to go whether it be in marketing, business, or anyone wanting to see the public's view.
 
 
