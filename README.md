@@ -7,7 +7,7 @@ Everyone uses YouTube across all ages. From kids looking up paw patrol, women se
 
 _6 step data analysis process_
 
-**[ASK](https://github.com/Juwan23D/Youtube-Optimization-Analysis/edit/main/README.md#ask)**
+**[ASK](https://github.com/Juwan23D/Youtube-Optimization-Analysis/tree/main?tab=readme-ov-file#ask)**
 
 **[Prepare](https://github.com/Juwan23D/Youtube-Optimization-Analysis/edit/main/README.md#prepare)**
 
