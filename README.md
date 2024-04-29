@@ -47,4 +47,8 @@ _Exploring this information can help in collecting data to support the direction
 
    _Learning their phrases, symbols, and code words is very important to understanding your audience. In order to translate the symbols and emojis I had to reformat the unicode back into excel because the first upload had them untranscribable._
 
+ **SQL**
+
+  *  In SQL I wanted to answer the questions that I asked above in order to gain an understanding of my explorations. Using commands such as order by, group by, where, and left join helped me sift through different information to see what exactly was going on.
+
 
