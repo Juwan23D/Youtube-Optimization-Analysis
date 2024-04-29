@@ -23,6 +23,10 @@ Source: [Youtube Dataset](https://www.kaggle.com/datasets/advaypatil/youtube-sta
 
 We will be using a youtube dataset that is available to the public with a no copyright license [(CC0 1.0 universal public domain)](https://creativecommons.org/publicdomain/zero/1.0/). 
 
-It spans over 2 data tables one detailing data on the comments and the other consisting of stats. Some of the metrics are likes, views, comments, and keyword categories. Exploring this information can help in collecting data to support the direction a company wants to go whether it be in marketing, business, or anyone wanting to see the public's view.
+* It spans over 2 data tables containing over 18,000 + rows each,  one detailing data on the comments and the other consisting of stats. 
+* Videos dates spanning from 2007 - 2022, and collected using Youtubes data API. 
+* Comprehensive metrics measured such as likes, views, comments, and keyword categories. 
+
+_Exploring this information can help in collecting data to support the direction a company wants to go whether it be in marketing, business, or anyone wanting to see the public's view._
 
 
