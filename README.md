@@ -75,7 +75,6 @@ FROM `stoked-grin-387603.youtube.stats`
 Order BY Comments DESC
 LIMIT 10;
 ```
-![Most](https://public.tableau.com/authoring/YoutubeDashboard_16856611459230/Sheet1#1)
 
 **Most Liked Video**
 
@@ -98,6 +97,8 @@ FROM `stoked-grin-387603.youtube.stats`
 GROUP BY Keyword
 Order BY View_num DESC;
 ```
+![Most](https://github.com/Juwan23D/Youtube-Optimization-Analysis/blob/main/Sheet%203%20(1).png)
+
 **Most liked Keyword**
 
 The most liked keywords was a collection of the likes spread across different videos that included certain keywords. Such as the mr.beast being involved in multiple videos and those videos he was involved in generated over 1 billion likes.
