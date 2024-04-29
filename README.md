@@ -5,6 +5,12 @@ Everyone uses YouTube across all ages. From kids looking up paw patrol, women se
 
 **[Youtube Presentation](https://docs.google.com/presentation/d/1r-9OqrqN_GgzQsvdn8VQfZ5q5uGI5ouv6rjBMO18GHQ/present?slide=id.p1)**
 
+_6 step data analysis process_
+
+**[ASK](https://github.com/Juwan23D/Youtube-Optimization-Analysis/edit/main/README.md#ask)**
+
+**[Prepare](https://github.com/Juwan23D/Youtube-Optimization-Analysis/edit/main/README.md#prepare)**
+
 # ASK
 * What are the most commented-upon videos? Or the most liked?
 * How many total views does each category have? How many likes?
