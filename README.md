@@ -33,7 +33,8 @@ We will be using a youtube dataset that is available to the public with a no cop
 * 2 CSV files
 * It spans over 2 data tables containing over 18,000 + rows each,  one detailing data on the comments and the other consisting of stats. 
 * Videos dates spanning from 2007 - 2022, and collected using Youtubes data API. 
-* Comprehensive metrics measured such as likes, views, comments, and keyword categories. 
+* Comprehensive metrics measured such as likes, views, comments, and keyword categories.
+* Dislikes were not included in this data.
 
 _Exploring this information can help in collecting data to support the direction a company wants to go whether it be in marketing, business, or anyone wanting to see the public's view._
 
@@ -57,6 +58,47 @@ _In SQL I wanted to answer the questions that I asked above in order to gain an 
 _Joining the tables using a column they both had allowed me to see them side by side at once and allowed for my code to be shorter and easier to read. Using where allowed me to identify specifics, and count allowed me to get a number that could identify the popularity of certain metrics._
 
 **[SQL Code](https://github.com/Juwan23D/Youtube-Optimization-Analysis/blob/main/Youtube%20SQL.sql)**
+
+# Analyze
+
+## Summary:
+
+ The main idea I wanted to understand was the popularity of the youtube videos because they told me what people were willing to spend their time on. Observing the views, likes, and comments was a direct response from the consumers and the data there holds answers to numerous possibilities.
+
+**Most Commented Videos**
+
+The most commemted showed what captured viewers attention the most and gave insight about their thoughts on the video
+ ```
+--Most commented videos
+SELECT Title, Comments
+FROM `stoked-grin-387603.youtube.stats`
+Order BY Comments DESC
+LIMIT 10;
+```
+**Most Liked Video**
+
+The likes can be seen as instant positive feedback, showing that viewers would'nt mind this video being saved to their liked playlist, and how Youtube can better optimize their algorithm.
+```
+--Most liked videos
+SELECT Title, Likes
+FROM `stoked-grin-387603.youtube.stats`
+Order BY Likes DESC
+LIMIT 10;
+```
+**Most Viewed Keyword**
+
+The most viewed keywords showed what was involved in searching for their desired video. This revealed that google was seen the most with over 46 billion views, showcasing its importance in searches.
+
+```
+--Keyword views
+SELECT Keyword, SUM(Views) as View_num
+FROM `stoked-grin-387603.youtube.stats`
+GROUP BY Keyword
+Order BY View_num DESC;
+```
+
+
+
     
 
 
