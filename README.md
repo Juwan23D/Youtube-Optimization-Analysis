@@ -35,4 +35,16 @@ We will be using a youtube dataset that is available to the public with a no cop
 
 _Exploring this information can help in collecting data to support the direction a company wants to go whether it be in marketing, business, or anyone wanting to see the public's view._
 
+# Process
+
+**Excel**
+
+* Checked for duplicates, empty spaces, and spelling errors.
+
+   _First I used excel to check for duplicates, and empty spaces which it was free of. The tricky part came down to the comments because it had spelling errors, but I chose to leave them be since people communicate differently._
+
+* Utilized power query to reformat the unicode so symbols and emojis were readable.
+
+   _Learning their phrases, symbols, and code words is very important to understanding your audience. In order to translate the symbols and emojis I had to reformat the unicode back into excel because the first upload had them untranscribable._
+
 
