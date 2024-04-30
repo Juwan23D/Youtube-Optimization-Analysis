@@ -79,7 +79,7 @@ LIMIT 10;
 
 **Most Liked Video**
 
-The likes can be seen as instant positive feedback, showing that viewers would'nt mind this video being saved to their liked playlist, and how Youtube can better optimize their algorithm.
+The likes can be seen as instant positive feedback, showing that viewers actually enjoyed the content, and how Youtube can better optimize their algorithm to show the viewers something similar.
 ```
 --Most liked videos
 SELECT Title, Likes
@@ -104,7 +104,7 @@ Order BY View_num DESC;
 
 **Most liked Keyword**
 
-The most liked keywords was a collection of the likes spread across different videos that included certain keywords. Such as the mr.beast being involved in multiple videos and those videos he was involved in generated over 1 billion likes.
+Certain keywords brought in different people to videos, and the likes were measured based on the searched keyword. Such as the mr.beast being involved in multiple videos and those videos he was involved in generated over 1 billion likes.
 ```
 --Keyword likes
 SELECT Keyword, SUM(Likes) as like_num
@@ -115,7 +115,7 @@ Order BY like_num DESC;
 ![Most](https://github.com/Juwan23D/Youtube-Optimization-Analysis/blob/main/Sheet%204%20(5).png)
 **Top liked Comments**
 
-The most commented keywords was a collection of comments spread across different videos that included keywords. This also had mr.beast as the main traffick generator taking 8/10 of the top liked comments.
+Certain keywords brought in different people to videos, and the comments were measured based on the searched keyword. This also had mr.beast as the main traffick generator taking 8/10 of the top liked comments.
 
 ```
 --Most liked comments 
