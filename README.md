@@ -15,6 +15,8 @@ _6 step data analysis process_
 
 **[Analyze](https://github.com/Juwan23D/Youtube-Optimization-Analysis/tree/main#analyze)**
 
+**[Share](https://github.com/Juwan23D/Youtube-Optimization-Analysis/tree/main#share)**
+
 # ASK
 * What are the most commented-upon videos? Or the most liked?
 * How many total views does each category have? How many likes?
@@ -137,6 +139,37 @@ LIMIT 10
 **[Youtube Presentation](https://docs.google.com/presentation/d/1r-9OqrqN_GgzQsvdn8VQfZ5q5uGI5ouv6rjBMO18GHQ/present?slide=id.p1)**
 
 ![Most](https://github.com/Juwan23D/Youtube-Optimization-Analysis/blob/main/Screenshot_29-4-2024_201241_docs.google.com.jpeg)
+
+# Act
+
+* What are the most commented-upon videos? Or the most liked?
+
+  _The most commented videos where El Chombo - Dame Tu Cosita feat. Cutty Ranks (Official Video) [Ultra Music], I Opened A Restaurant That Pays You To Eat At It, $456,000 Squid Game In Real Life!, One Direction - History (Official Video), and history of the entire world, i guess with a combined total of almost 3,00,000 comments_
+
+  _The most liked videos where El Chombo - Dame Tu Cosita feat. Cutty Ranks (Official Video) [Ultra Music], $456,000 Squid Game In Real Life!, Martin Garrix - Animals (Official Video), Powfu - death bed (coffee for your head) (Official Video) ft. beabadoobee, The Weeknd - Save Your Tears (Official Music Video) with almost 50,000,000 likes._
+
+* How many total views does each category have? How many likes?
+
+    _The most keyword views came from google with over 46,000,000 views alone and Mr Beast had the most likes that surpassed 1 billion._
+
+* What are the most-liked comments?
+
+   _The most liked comments came from the Mr beast category and the number 1 was ‘Like I said in the video, subscribe if you haven’t already and you could win $10,000!’ coming from Mr beast on the video ‘$456,000 Squid Game In Real Life!’._
+
+ * What is the average sentiment score in each keyword category?
+
+   _Lofi has the highest sentiment score with 1.832, machine learning 1.745, music 1.739, asmr 1.739, and tutorial 1.7088._
+
+ * How many times do company names (i.e., Apple or Samsung) appear in each keyword category?
+
+    For the companies category cnn had 50, marvel 50, nintendo 48, google 45, and apple 42.
+
+   ## Conclusion
+
+   This Analysis helped me analyze this youtube dataset by summarizing its main characteristics, notice patterns, and visualized data in an easier format to observe. It helped reveal the popularity of mr beast, popular genres of music, and what consumers go to keywords for their searches are. Hopefully this analysis will help opitimize youtube so it can maximize its video traffic.
+
+    
+
 
 
 
