@@ -17,6 +17,8 @@ _6 step data analysis process_
 
 **[Share](https://github.com/Juwan23D/Youtube-Optimization-Analysis/tree/main#share)**
 
+**[Act](https://github.com/Juwan23D/Youtube-Optimization-Analysis/tree/main#act)**
+
 # ASK
 * What are the most commented-upon videos? Or the most liked?
 * How many total views does each category have? How many likes?
