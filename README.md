@@ -124,7 +124,7 @@ FROM `stoked-grin-387603.youtube.joined table`
 Order BY Likes_1 DESC
 LIMIT 10
 ```
-![Most](https://github.com/Juwan23D/Youtube-Optimization-Analysis/blob/main/Sheet%205%20(4).png)
+![Most](https://github.com/Juwan23D/Youtube-Optimization-Analysis/blob/main/Screenshot_29-4-2024_19321_public.tableau.com.jpeg)
 
 
     
