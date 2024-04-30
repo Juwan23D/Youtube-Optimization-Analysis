@@ -75,6 +75,7 @@ FROM `stoked-grin-387603.youtube.stats`
 Order BY Comments DESC
 LIMIT 10;
 ```
+![Most](https://github.com/Juwan23D/Youtube-Optimization-Analysis/blob/main/Screenshot_29-4-2024_192814_public.tableau.com.jpeg)
 
 **Most Liked Video**
 
