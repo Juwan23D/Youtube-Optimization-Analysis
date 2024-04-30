@@ -87,6 +87,8 @@ FROM `stoked-grin-387603.youtube.stats`
 Order BY Likes DESC
 LIMIT 10;
 ```
+![Most](https://github.com/Juwan23D/Youtube-Optimization-Analysis/blob/main/Screenshot_29-4-2024_193110_public.tableau.com.jpeg)
+
 **Most Viewed Keyword**
 
 The most viewed keywords showed what was involved in searching for their desired video. This revealed that google was seen the most with over 46 billion views, showcasing its importance in searches.
