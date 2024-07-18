@@ -38,7 +38,7 @@ Source: [Youtube Dataset](https://www.kaggle.com/datasets/advaypatil/youtube-sta
 We will be using a youtube dataset that is available on kaggle to the public with a no copyright license [(CC0 1.0 universal public domain)](https://creativecommons.org/publicdomain/zero/1.0/). 
 * 2 CSV files
 * It spans over 2 data tables containing over 18,000 + rows each,  one detailing data on the comments and the other consisting of stats. 
-* Videos dates spanning from 2007 - 2022, and collected using Youtubes data API. 
+* Videos dates spanning from 2007 - 2022. 
 * Comprehensive metrics measured such as likes, views, comments, and keyword categories.
 * Dislikes were not included in this data.
 
