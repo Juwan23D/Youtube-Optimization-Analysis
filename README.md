@@ -49,10 +49,13 @@ _Exploring this information can help in collecting data to support the direction
 **Excel**
 
 * Checked for duplicates, empty spaces, and spelling errors.
+* Chose to keep all columns presented since they gave various insight into keyword engagement.
+* Deleted any duplicated column sets that uploaded. 
+* Left the 2 videos that had empty spaces included because they were only missing information in 2 columns but they still gave valuable insight for the "machine" Learning keyword. 
 
-   _First I used excel to check for duplicates, and empty spaces which it was free of. The tricky part came down to the comments because it had spelling errors, but I chose to leave them be since people communicate differently._
-
-  
+   _This was tricky because because the 2 columns missing for the videos told they view and like count. However they both still told the story of how the machine learning keyword
+  brought traffic to the videos through the comments, and comment like column. Unfortunatley I couldn't find the videos to personally input the missing information, so I decided it would
+  be best to still include since they empty space did'nt negatively impact the study._
 
 * Reuploaded comments table into Power Query as a CSV file, and changed the file origin into a 65001.Unicode(UTF-8) instead of 65000 :(UTF-7) so special characters such as symbols and emojis would go from untranscribeable to a readable format.
 * Removed number counting column to make a sure the table only had information we needed.
@@ -60,7 +63,9 @@ _Exploring this information can help in collecting data to support the direction
 * Changed column titles such as as "youtube stats" to "Video Title" to bring clarity to information presented.
 * Rearranged columns to better refelect information. 
 
-   _Learning their phrases, symbols, and code words is very important to understanding your audience. In order to translate the symbols and emojis I had to reformat the unicode back into excel because the first upload had them untranscribable._
+   _Learning their phrases, symbols, and code words is very important to understanding your audience. In order to translate the symbols and emojis I had to reformat the unicode back into excel because the first upload had them untranscribable.
+  I also renamed the columns so I could better understand the information after merging them. Seeing a Likes.1 and Likes.2 would be very confusing especially after already deleting a few duplicate rows and columns. Renaming them to "Video  Likes" and
+  "Comment Likes" made things a lot easier to understand._
 
  **SQL**
  
