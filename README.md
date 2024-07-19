@@ -52,7 +52,13 @@ _Exploring this information can help in collecting data to support the direction
 
    _First I used excel to check for duplicates, and empty spaces which it was free of. The tricky part came down to the comments because it had spelling errors, but I chose to leave them be since people communicate differently._
 
-* Utilized power query to reformat the unicode so symbols and emojis were readable.
+  
+
+* Reuploaded comments table into Power Query as a CSV file, and changed the file origin into a 65001.Unicode(UTF-8) instead of 65000 :(UTF-7) so special characters such as symbols and emojis would go from untranscribeable to a readable format.
+* Removed number counting column to make a sure the table only had information we needed.
+* Used Power Query to merge the Youtube stats and Comments dataset into 1 table by using left Join on the ID column.
+* Changed column titles such as as "youtube stats" to "Video Title" to bring clarity to information presented.
+* Rearranged columns to better refelect information. 
 
    _Learning their phrases, symbols, and code words is very important to understanding your audience. In order to translate the symbols and emojis I had to reformat the unicode back into excel because the first upload had them untranscribable._
 
