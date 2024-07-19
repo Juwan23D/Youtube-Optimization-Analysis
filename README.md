@@ -76,7 +76,9 @@ the video is all here._
 _In SQL I wanted to answer the questions that I asked above in order to gain an understanding of my explorations. Using commands such as order by, group by, where, and left join helped me sift through different information to see what exactly was going on._
   *  Most Commented videos, keyword Categories, Joined Table, Average Sentiment score are some of the ideas measured.
 
-_Joining the tables using a column they both had allowed me to see them side by side at once and allowed for my code to be shorter and easier to read. Using where allowed me to identify specifics, and count allowed me to get a number that could identify the popularity of certain metrics._
+_I joined the 2 tables initially in Power Query, but I had an issue with BigQuerys schema that was solved by updating the rules to account for quotes. I beleive it may have been from 
+the special characters in the comments column, and by this time I had already separated the 2 cleaned datasets so I thought it would be a good chance to exercise the Join clause in
+SQL to save time._
 
 **[SQL Code](https://github.com/Juwan23D/Youtube-Optimization-Analysis/blob/main/Youtube%20SQL.sql)**
 
@@ -84,7 +86,7 @@ _Joining the tables using a column they both had allowed me to see them side by 
 
 ## Summary:
 
- The main idea I wanted to understand was the popularity of the youtube videos because they told me what people were willing to spend their time on. Observing the views, likes, and comments was a direct response from the consumers and the data there holds answers to numerous possibilities.
+ The main idea I wanted to understand was which keyword generated the most traffic to the videos. Observing the views, likes, and comments was a direct response from the consumers and the data there lays the path to understanding the path of what brought them to the video. 
 
 **Most Commented Videos**
 
