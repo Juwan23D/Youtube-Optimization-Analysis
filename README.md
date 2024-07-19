@@ -29,7 +29,9 @@ _6 step data analysis process_
 * What is the average sentiment score in each keyword category?
 * How many times do company names (i.e., Apple or Samsung) appear in each keyword category?
 
-  _Gaining insight to a customer's mindset can explain their interests and give them useful recommendations_ 
+  _Gaining insight to a customer's mindset can explain their interests and give them useful recommendations. This can also help understand their path to the video
+  such as typing cnn to see a newstory or using google search that brought them to the video. The sentiment was meant to score the overall feeling towards the video
+  such as with 0 as negative, 1 as neutral, and 2 as positive._ 
 
 # Prepare
 
