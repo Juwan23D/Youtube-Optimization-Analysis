@@ -57,7 +57,7 @@ _Exploring this information can help in collecting data to support the direction
 
    _This was tricky because because the 2 columns missing for the videos told they view and like count. However they both still told the story of how the machine learning keyword
   brought traffic to the videos through the comments, and comment like column. Unfortunatley I couldn't find the videos to personally input the missing information, so I decided it would
-  be best to still include since they empty space did'nt negatively impact the study._
+  be best to still include them since thee empty space did'nt negatively impact the study._
 
 * Reuploaded comments table into Power Query as a CSV file, and changed the file origin into a 65001.Unicode(UTF-8) instead of 65000 :(UTF-7) so special characters such as symbols and emojis would go from untranscribeable to a readable format.
 * Removed number counting column to make a sure the table only had information we needed.
