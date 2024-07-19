@@ -86,11 +86,11 @@ SQL to save time._
 
 ## Summary:
 
- The main idea I wanted to understand was which keyword generated the most traffic to the videos. Observing the views, likes, and comments was a direct response from the consumers and the data there lays the path to understanding the path of what brought them to the video. 
+ The main idea I wanted to understand was which keyword generated the most traffic to the videos. Observing the views, likes, and comments was a direct response from the consumers and the data there lays the path to understanding what brought them to the video. 
 
 **Most Commented Videos**
 
-The most commemted showed what captured viewers attention the most and gave insight about their thoughts on the video
+The most commented showed what captured viewers attention the most and gave insight about their thoughts on the video
  ```
 --Most commented videos
 SELECT Title, Comments
@@ -138,7 +138,7 @@ Order BY like_num DESC;
 ![Most](https://github.com/Juwan23D/Youtube-Optimization-Analysis/blob/main/Sheet%204%20(6).png)
 **Top liked Comments by Keyword**
 
-Certain keywords brought in different people to videos, and the comments were measured based on the searched keyword. This also had mr.beast as the main traffick generator taking 8/10 of the top liked comments.
+Certain keywords brought in different people to videos, and the comments were measured based on the searched keyword. This also had mr.beast as the main traffic generator taking majority of the top liked comments.
 
 ```
 --Most liked comments 
