@@ -21,7 +21,7 @@ _6 step data analysis process_
 
 # ASK
 * What are the most commented-upon videos? Or the most liked?
-* How many total views does each category have? How many likes?
+* How many total views does each keyword have? How many likes?
 * What are the most-liked comments?
 
    _Measurable questions can help us gain a numeric answer, and help establish the popularity of different ideas_
