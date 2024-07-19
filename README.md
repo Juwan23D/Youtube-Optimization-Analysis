@@ -157,7 +157,7 @@ LIMIT 10
 
 **[Youtube Presentation](https://docs.google.com/presentation/d/1r-9OqrqN_GgzQsvdn8VQfZ5q5uGI5ouv6rjBMO18GHQ/present?slide=id.p1)**
 
-![Most](https://github.com/Juwan23D/Youtube-Optimization-Analysis/blob/main/Screenshot_29-4-2024_201241_docs.google.com.jpeg)
+![Most](https://github.com/Juwan23D/Youtube-Optimization-Analysis/blob/main/Screenshot_19-7-2024_135540_docs.google.com.jpeg)
 
 # Act
 
