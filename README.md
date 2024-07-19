@@ -132,7 +132,7 @@ GROUP BY Keyword
 Order BY like_num DESC;
 ```
 ![Most](https://github.com/Juwan23D/Youtube-Optimization-Analysis/blob/main/Sheet%204%20(6).png)
-**Top liked Comments**
+**Top liked Comments by Keyword**
 
 Certain keywords brought in different people to videos, and the comments were measured based on the searched keyword. This also had mr.beast as the main traffick generator taking 8/10 of the top liked comments.
 
@@ -143,7 +143,7 @@ FROM `stoked-grin-387603.youtube.joined table`
 Order BY Likes_1 DESC
 LIMIT 10
 ```
-![Most](https://github.com/Juwan23D/Youtube-Optimization-Analysis/blob/main/Screenshot_29-4-2024_19321_public.tableau.com.jpeg)
+![Most](https://github.com/Juwan23D/Youtube-Optimization-Analysis/blob/main/Sheet%205%20(5).png)
 
 # Share
 
