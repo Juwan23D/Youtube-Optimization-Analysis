@@ -53,19 +53,19 @@ the video is all here._
 **Excel**
 
 * Checked for duplicates, empty spaces, and spelling errors.
-* Chose to keep all columns presented since they gave various insight into keyword engagement.
-* Deleted any duplicated column sets that uploaded. 
+* Chose to keep all columns presented since they gave various insights into keyword engagement.
+* Deleted any duplicated column sets that were uploaded. 
 * Left the 2 videos that had empty spaces included because they were only missing information in 2 columns but they still gave valuable insight for the "machine" Learning keyword. 
 
-   _This was tricky because because the 2 columns missing for the videos told they view and like count. However they both still told the story of how the machine learning keyword
-  brought traffic to the videos through the comments, and comment like column. Unfortunatley I couldn't find the videos to personally input the missing information, so I decided it would
-  be best to still include them since thee empty space did'nt negatively impact the study._
+   _This was tricky because the 2 columns missing for the videos held the view and like count. However they both still told the story of how the machine learning keyword
+  brought traffic to the videos through the comments, and comment like column. Unfortunateley I couldn't find the videos to personally input the missing information, so I decided it would
+  be best to still include them since the empty space did not negatively impact the study._
 
-* Reuploaded comments table into Power Query as a CSV file, and changed the file origin into a 65001.Unicode(UTF-8) instead of 65000 :(UTF-7) so special characters such as symbols and emojis would go from untranscribeable to a readable format.
-* Removed number counting column to make sure the table only had information we needed.
+* Reuploaded comments table into Power Query as a CSV file, and changed the file origin into a 65001.Unicode(UTF-8) instead of 65000 :(UTF-7) so special characters such as symbols and emojis would go from untranscribable to a readable format.
+* Removed the number counting column to make sure the table only had information we needed.
 * Used Power Query to merge the Youtube stats and Comments dataset into 1 table by using left Join on the ID column.
-* Changed column titles such as as "youtube stats" to "Video Title" to bring clarity to information presented.
-* Rearranged columns to better refelect information. 
+* Changed column titles such as "youtube stats" to "Video Title" to bring clarity to information presented.
+* Rearranged columns to better reflect information. 
 
    _Learning their phrases, symbols, and code words is very important to understanding your audience. In order to translate the symbols and emojis I had to reformat the unicode back into excel because the first upload had them untranscribable.
   I also renamed the columns so I could better understand the information after merging them. Seeing a Likes.1 and Likes.2 would be very confusing especially after already deleting a few duplicate rows and columns. Renaming them to "Video  Likes" and
