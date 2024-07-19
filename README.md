@@ -185,7 +185,7 @@ LIMIT 10
 
    ## Conclusion
 
-   This Analysis helped me analyze this youtube dataset by summarizing its main characteristics, notice patterns, and visualized data in an easier format to observe. It helped reveal the popularity of mr beast, popular genres of music, and what consumers go to keywords for their searches are. Hopefully this analysis will help opitimize youtube so it can maximize its video traffic.
+   The purpose of this study was to be discover which keywords drove the most traffic to videos. Many were found through using google to bring viewers to the videos first, and this revealed google as an indirect player in boosting Youtubes reach to the public. We discovered the influence of Mr. Beast, the most liked, and commented video, along with discovering that 1 keyword can generate over 1 billion views. My recommendation would be for Youtube to explore a positive relationship with google and Mr.Beast since they have shown to be major players in generating traffic to the site, and that they can bring further growth to Youtube's platform.
 
     
 
