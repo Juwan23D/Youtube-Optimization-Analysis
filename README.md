@@ -44,7 +44,9 @@ We will be using a youtube dataset that is available on kaggle to the public wit
 * Comprehensive metrics measured such as likes, views, comments, and keyword categories.
 * Dislikes were not included in this data.
 
-_Exploring this information can help in collecting data to support the direction a company wants to go whether it be in marketing, business, or anyone wanting to see the public's view._
+_Exploring this information can help in collecting data to support the direction a company wants to go whether it be in marketing, business, or anyone wanting to see the public's view.
+For this task it'll tell us the keywords that brought the engagement to Youtubes platform. Details about how many people watched the video, the likes, comments telling specifics on how they feel about
+the video is all here._
 
 # Process
 
