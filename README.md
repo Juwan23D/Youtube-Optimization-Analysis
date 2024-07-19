@@ -149,7 +149,7 @@ LIMIT 10
 
 **[Youtube Dasboard](https://public.tableau.com/views/YoutubeDashboard_16856611459230/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)**
 
-![Most](https://github.com/Juwan23D/Youtube-Optimization-Analysis/blob/main/Dashboard%201%20(3).png)
+![Most](https://github.com/Juwan23D/Youtube-Optimization-Analysis/blob/main/Dashboard%201%20(4).png)
 
 **[Youtube Presentation](https://docs.google.com/presentation/d/1r-9OqrqN_GgzQsvdn8VQfZ5q5uGI5ouv6rjBMO18GHQ/present?slide=id.p1)**
 
