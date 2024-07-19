@@ -167,7 +167,7 @@ LIMIT 10
 
   _The most liked videos where El Chombo - Dame Tu Cosita feat. Cutty Ranks (Official Video) [Ultra Music], $456,000 Squid Game In Real Life!, Martin Garrix - Animals (Official Video), Powfu - death bed (coffee for your head) (Official Video) ft. beabadoobee, The Weeknd - Save Your Tears (Official Music Video) with almost 50,000,000 likes._
 
-* How many total views does each category have? How many likes?
+* How many total views does each Keyword have? How many likes?
 
     _The most keyword views came from google with over 46,000,000 views alone and Mr Beast had the most likes that surpassed 1 billion._
 
