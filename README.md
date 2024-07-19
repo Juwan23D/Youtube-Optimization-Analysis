@@ -94,7 +94,7 @@ FROM `stoked-grin-387603.youtube.stats`
 Order BY Comments DESC
 LIMIT 10;
 ```
-![Most](https://github.com/Juwan23D/Youtube-Optimization-Analysis/blob/main/Screenshot_29-4-2024_192814_public.tableau.com.jpeg)
+![Most](https://github.com/Juwan23D/Youtube-Optimization-Analysis/blob/main/Sheet%201%20(4).png)
 
 **Most Liked Video**
 
@@ -106,7 +106,7 @@ FROM `stoked-grin-387603.youtube.stats`
 Order BY Likes DESC
 LIMIT 10;
 ```
-![Most](https://github.com/Juwan23D/Youtube-Optimization-Analysis/blob/main/Screenshot_29-4-2024_193110_public.tableau.com.jpeg)
+![Most](https://github.com/Juwan23D/Youtube-Optimization-Analysis/blob/main/Sheet%202%20(9).png)
 
 **Most Viewed Keyword**
 
@@ -119,7 +119,7 @@ FROM `stoked-grin-387603.youtube.stats`
 GROUP BY Keyword
 Order BY View_num DESC;
 ```
-![Most](https://github.com/Juwan23D/Youtube-Optimization-Analysis/blob/main/Sheet%203%20(1).png)
+![Most](https://github.com/Juwan23D/Youtube-Optimization-Analysis/blob/main/Sheet%203%20(2).png)
 
 **Most liked Keyword**
 
@@ -131,7 +131,7 @@ FROM `stoked-grin-387603.youtube.stats`
 GROUP BY Keyword
 Order BY like_num DESC;
 ```
-![Most](https://github.com/Juwan23D/Youtube-Optimization-Analysis/blob/main/Sheet%204%20(5).png)
+![Most](https://github.com/Juwan23D/Youtube-Optimization-Analysis/blob/main/Sheet%204%20(6).png)
 **Top liked Comments**
 
 Certain keywords brought in different people to videos, and the comments were measured based on the searched keyword. This also had mr.beast as the main traffick generator taking 8/10 of the top liked comments.
